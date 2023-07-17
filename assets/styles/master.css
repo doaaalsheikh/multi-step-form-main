@@ -62,7 +62,7 @@ main {
 	position: relative;
 }
 .content {
-	width: 40rem;
+	width: 50rem;
 	margin: 2rem auto;
 	padding: 0.6rem;
 	background-color: var(--White);
